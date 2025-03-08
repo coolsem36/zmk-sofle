@@ -67,6 +67,11 @@
             bindings = <&kp NUMBER_6>;
             key-positions = <33 34>;
         };
+
+        n7 {
+            bindings = <&kp N7>;
+            key-positions = <34 35>;
+        };
     };
 
     behaviors {
