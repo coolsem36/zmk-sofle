@@ -62,6 +62,11 @@
             bindings = <&kp N1>;
             key-positions = <17 18>;
         };
+
+        n6 {
+            bindings = <&kp NUMBER_6>;
+            key-positions = <33 34>;
+        };
     };
 
     behaviors {
