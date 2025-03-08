@@ -47,6 +47,11 @@
             bindings = <&kp NUMBER_2>;
             key-positions = <29 30>;
         };
+
+        n4 {
+            bindings = <&kp NUMBER_4>;
+            key-positions = <42 43>;
+        };
     };
 
     behaviors {
