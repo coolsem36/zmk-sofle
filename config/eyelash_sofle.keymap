@@ -39,8 +39,8 @@
         compatible = "zmk,combos";
 
         n1 {
-            bindings = <&kp NUMBER_2>;
-            key-positions = <29 30>;
+            bindings = <&kp NUMBER_3>;
+            key-positions = <30 31>;
         };
     };
 
