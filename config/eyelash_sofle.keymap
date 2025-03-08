@@ -82,6 +82,11 @@
             bindings = <&kp N9>;
             key-positions = <46 47>;
         };
+
+        n0 {
+            bindings = <&kp N0>;
+            key-positions = <47 48>;
+        };
     };
 
     behaviors {
